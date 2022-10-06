@@ -20,7 +20,9 @@
      IP addresses are allocated by mentioning the bit size, Example: 10.0.0.0/24, 192.168.0.1/16 etc..
 
      
-     10.0.0.0/24 means 24 bit divided by 8 bit size = 3 groups, It means 3 groups are blocked and one group is available to use. It means 1 group represents 255 numbers - 255 I.P addresses are available to use.
+     10.0.0.0/24 means 24 bit divided by 8 bit size = 3 groups,
+     It means 3 groups are blocked and one group is available to use. 
+     It means 1 group represents 255 numbers - 255 I.P addresses are available to use.
      Example: 10.0.0.1, 10.0.0.2, 10.0.0.3 ………………………..10.0.0.255
      
      10.0.0.0/16 means 16 bit divided by 8 bit size = 2 groups, It means 2 groups are blocked and 2 groups are available to use. It means each group has 255 numbers - 255 group3 possibility * 255 group4 possibility (Number of ways)
