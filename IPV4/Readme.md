@@ -4,7 +4,8 @@
 
 ## Groups
     
-    IPV4 consists of four groups <group1> . <group2> . <group3> . <group4> Which represents the IP address of above examples (172.160.13.1)
+    IPV4 consists of four groups <group1> . <group2> . <group3> . <group4> 
+    Which represents the IP address of above examples (172.160.13.1)
 
 ## Bits
     
