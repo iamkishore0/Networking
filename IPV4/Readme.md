@@ -25,7 +25,9 @@
      It means 1 group represents 255 numbers - 255 I.P addresses are available to use.
      Example: 10.0.0.1, 10.0.0.2, 10.0.0.3 ………………………..10.0.0.255
      
-     10.0.0.0/16 means 16 bit divided by 8 bit size = 2 groups, It means 2 groups are blocked and 2 groups are available to use. It means each group has 255 numbers - 255 group3 possibility * 255 group4 possibility (Number of ways)
+     10.0.0.0/16 means 16 bit divided by 8 bit size = 2 groups, 
+     It means 2 groups are blocked and 2 groups are available to use. 
+     It means each group has 255 numbers - 255 group3 possibility * 255 group4 possibility (Number of ways)
 
 ## Calculation part for above explanation
 
